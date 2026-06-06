@@ -24,7 +24,7 @@ hamburger.addEventListener('click', () => {
 
 // Add mobile CTA inside nav menu when open
 const mobileCta = document.createElement('a');
-mobileCta.href = "https://wa.me/573001234567?text=Hola!%20Quiero%20hacer%20un%20pedido%20%F0%9F%8C%B8";
+mobileCta.href = "https://wa.me/573217829508?text=Hola!%20Quiero%20hacer%20un%20pedido%20%F0%9F%8C%B8";
 mobileCta.target = "_blank";
 mobileCta.className = "btn-whatsapp-nav-mobile";
 mobileCta.textContent = "¡Comprar ahora!";
